@@ -35,7 +35,6 @@ Thumbs.db
 
 # Data
 *.csv
-!housing.csv
 
 # Logs
 *.log
